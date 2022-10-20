@@ -1,1 +1,2 @@
 # QRscan
+# scanQR
